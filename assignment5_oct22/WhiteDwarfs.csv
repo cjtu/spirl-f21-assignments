@@ -1,0 +1,2 @@
+Seq,RA_ICRS,DE_ICRS,Plx,e_Plx,pmRA,e_pmRA,pmDE,e_pmDE,RV,e_RV,Memb,GaiaDR2,SimbadName,_RA_icrs,_DE_icrs,Gmag,BPmag,RPmag,distance_parsecs,distance_modulus,absolute_magnitude,color
+11,184.73402,25.76584,11.54,0.1,-11.62,0.16,-9.61,0.18,0.0,0.0,b,GaiaDR2,Gaia DR2 4008511467191955840,184.73408999999998,25.765882,16.611988,16.565842,16.71564,86.66,4.69,11.92,-0.15
